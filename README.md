@@ -8,7 +8,7 @@ Cloud solution design and proof-of-concept build for **FreshMart**, a Sri Lankan
   <img src="docs/architecture/freshmart-architecture.png" alt="FreshMart target AWS architecture" width="100%">
 </p>
 
-**Full report:** [Download the project report (PDF)](https://github.com/Sanda1113/freshmart-aws-hybrid-architecture/raw/main/FreshMart-AWS-Report.pdf)
+**Full report:** [Download the project report (PDF)](https://github.com/Sanda1113/freshmart-aws-hybrid-architecture/raw/main/CB014568_Individual Assignment_ECIA1.pdf)
 
 ---
 
