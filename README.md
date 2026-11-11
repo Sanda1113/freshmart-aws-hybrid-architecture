@@ -84,7 +84,7 @@ All resources were built in **us-east-1** within the Learner Lab's IAM rules and
 
 The full report contains screenshots of every step:
 
-**[Download the report (PDF)](https://github.com/Sanda1113/freshmart-aws-hybrid-architecture/raw/main/FreshMart-AWS-Report.pdf)**
+**[Download the report (PDF)](https://github.com/Sanda1113/freshmart-aws-hybrid-architecture/raw/main/CB014568_Individual_Assignment_ECIA1.pdf)**
 
 - VPC, subnets, Internet Gateway, route table, NAT Gateway and Elastic IP
 - Security group inbound rules and the LabRole permissions
